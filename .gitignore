@@ -1,0 +1,24 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/
+/.vs/OkrService/config/applicationhost.config
+/OkrService.UnitTest/obj/
+/OkrService.UnitTest/bin/
+/OkrService/bin/
+/OkrService/obj/
+/OKRService.Common/bin/Debug/netcoreapp3.1
+/OKRService.Common/obj
+/OKRService.EF/bin/Debug/netcoreapp3.1
+/OKRService.EF/obj
+/OKRService.Service/bin/Debug/netcoreapp3.1
+/OKRService.Service/obj
+/OKRService.UnitTests/bin/Debug
+/OKRService.UnitTests/obj
+/OKRService.ViewModel/bin/Debug/netcoreapp3.1
+/OKRService.ViewModel/obj
+/OKRService.WebCore/bin
+/OKRService.WebCore/obj
+/OKRService.WebCore/Properties
+/OkrService.sln.DotSettings.user

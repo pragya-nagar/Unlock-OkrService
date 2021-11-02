@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OKRService.Common", "OkrService.Common\OKRService.Common.csproj", "{F13A4342-7F79-48ED-B84B-FD4AC28FEF08}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OKRService.EF", "OkrService.EF\OKRService.EF.csproj", "{C2B261AC-068F-4932-8556-E613E67B5BC3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OKRService.Service", "OkrService.Service\OKRService.Service.csproj", "{B38A015B-2808-4484-B8E9-1D6F2435EED1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OKRService.ViewModel", "OkrService.ViewModel\OKRService.ViewModel.csproj", "{D3E84EFE-56BC-4579-8F5D-C10BF6573ECF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OKRService.WebCore", "OkrService.WebCore\OKRService.WebCore.csproj", "{A4588615-2320-421B-8FB8-9736C98D2A8A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OKRService.UnitTests", "OKRService.UnitTests\OKRService.UnitTests.csproj", "{DAD13C58-FE3E-4A0F-B34B-84E11C5708C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F13A4342-7F79-48ED-B84B-FD4AC28FEF08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F13A4342-7F79-48ED-B84B-FD4AC28FEF08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F13A4342-7F79-48ED-B84B-FD4AC28FEF08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F13A4342-7F79-48ED-B84B-FD4AC28FEF08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2B261AC-068F-4932-8556-E613E67B5BC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2B261AC-068F-4932-8556-E613E67B5BC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2B261AC-068F-4932-8556-E613E67B5BC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2B261AC-068F-4932-8556-E613E67B5BC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B38A015B-2808-4484-B8E9-1D6F2435EED1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B38A015B-2808-4484-B8E9-1D6F2435EED1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B38A015B-2808-4484-B8E9-1D6F2435EED1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B38A015B-2808-4484-B8E9-1D6F2435EED1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3E84EFE-56BC-4579-8F5D-C10BF6573ECF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3E84EFE-56BC-4579-8F5D-C10BF6573ECF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3E84EFE-56BC-4579-8F5D-C10BF6573ECF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3E84EFE-56BC-4579-8F5D-C10BF6573ECF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4588615-2320-421B-8FB8-9736C98D2A8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4588615-2320-421B-8FB8-9736C98D2A8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4588615-2320-421B-8FB8-9736C98D2A8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4588615-2320-421B-8FB8-9736C98D2A8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAD13C58-FE3E-4A0F-B34B-84E11C5708C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAD13C58-FE3E-4A0F-B34B-84E11C5708C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAD13C58-FE3E-4A0F-B34B-84E11C5708C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAD13C58-FE3E-4A0F-B34B-84E11C5708C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FAF8262C-3FC6-4F73-81D0-ED16631B6BF0}
+	EndGlobalSection
+EndGlobal
